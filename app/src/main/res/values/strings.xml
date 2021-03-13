@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Retrofit Sample</string>
+    <string name="execute">実行</string>
+    <string name="api_string">ここに取得した文字が表示される</string>
 </resources>
